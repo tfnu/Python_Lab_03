@@ -12,7 +12,7 @@ from datetime import date
 print("This program for course ITMD-513 is executed by FNU Tripti (A20503656) on : ", date.today())
 
 
-# Declaration of function to calculate the interested and the total amount
+# Declaration of function to calculate the interest and the total amount
 def calculate_bank_balance():
     # Declaration and initialization of variables to store the bank balance
     bank_balance = 0.0
